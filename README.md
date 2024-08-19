@@ -45,7 +45,7 @@ O dashboard inclui as seguintes visualizações, baseadas nos dados de Março de
 
 ## 📊 Exemplo de Dashboard
 
-![Dashboard Preview](Screenshot - Projeto2.png)
+![Dashboard Preview](https://github.com/lume-workflow/DNC-Projects/blob/c06d7bdf1ffb26200883db106e4e72573620e9e9/Screenshot%20-%20Projeto2.png)
 
 ## 🤝 Contribuições
 
